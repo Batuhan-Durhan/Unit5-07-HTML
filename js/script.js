@@ -17,6 +17,8 @@
  * Input.
  */
 
+/**JSDoc
+*/
 function buttonClicked() {
   
   const integer = document.getElementById("integer").value
